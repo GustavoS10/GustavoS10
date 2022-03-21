@@ -20,6 +20,7 @@
 </div>
 
 
+![Snake animation](https://github.com/GustavoS10/GustavoS10/blob/output/github-contribution-grid-snake.svg)
 
 <!---
 GustavoS10/GustavoS10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
