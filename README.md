@@ -19,9 +19,6 @@
   <a href="https://www.linkedin.com/in/gustavo-sovrani-62632a228/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""target="_blank"></a>
 </div>
 
-
-![Snake animation](https://raw.githubusercontent.com/GustavoS10/GustavoS10/e7bcce771f3e790cbbf37d166e8db9b628167bb7/github-contribution-grid-snake.svg)
-
 <!---
 GustavoS10/GustavoS10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
