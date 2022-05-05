@@ -7,7 +7,7 @@
 - :heart: Computer Science
 - 👀 I’m interested in HTML5, CSS3, Bootstrap 5 and Ethical Hacking!
 - 🌱 I’m currently learning everyday!
-- 📫 How to reach me on: https://www.linkedin.com/in/gustavo-sovrani-62632a228/
+- 📫 How to reach me on: https://www.linkedin.com/in/gustavo-sovrani
 - https://gustavos10.github.io/GustaDeveloper/
 
 ## Tools
