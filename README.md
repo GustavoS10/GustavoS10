@@ -20,7 +20,7 @@
   <a href="https://www.linkedin.com/in/gustavo-sovrani" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""target="_blank"></a>
 </div>
 
-![snake gif](https://github.com/GustavoS10/GustavoS10/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/gustavos10/gustavos10/blob/output/github-contribution-grid-snake.svg)
 
 <!---
 GustavoS10/GustavoS10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
