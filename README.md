@@ -19,8 +19,10 @@
   <a href="mailto: gsovrani10@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=""target="_blank"></a>
   <a href="https://www.linkedin.com/in/gustavo-sovrani" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""target="_blank"></a>
 </div>
-
-![snake gif](https://github.com/gustavos10/gustavos10/blob/output/github-contribution-grid-snake.svg)
+<a href="https://github.com/gustavos10">
+  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=gustavos10&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoS10&layout=compact&langs_count=7&theme=react" />
+![Snake animation](https://github.com/gustavos10/gustavos10/blob/output/github-contribution-grid-snake.svg)
 
 <!---
 GustavoS10/GustavoS10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
