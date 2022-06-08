@@ -14,7 +14,7 @@
 
 ## Contact me on:
 <div style="display: inline_block"><br>
-  <a href="https://www.instagram.com/if.gusta/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt=""target="_blank"></a>
+  <a href="https://www.instagram.com/else.gustas/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt=""target="_blank"></a>
   <a href="mailto: gsovrani10@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=""target="_blank"></a>
   <a href="https://www.linkedin.com/in/gustavo-sovrani" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""target="_blank"></a>
 </div>
