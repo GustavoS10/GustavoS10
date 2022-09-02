@@ -7,7 +7,7 @@
 - :heart: Computer Science
 - 👀 I’m interested in HTML5, CSS3, Bootstrap 5, JavaScript, ReactJs!
 - 🌱 I’m currently learning everyday!
-- 📫 How to reach me on: http://gustadev.herokuapp.com/
+- 📫 How to reach me on: https://devgusta.vercel.app
 
 
 # 💻 Tech Stack:
